@@ -1,0 +1,25 @@
+baseURL: 
+languageCode: en-us
+title: Albert's Apples
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: true
+  homeInfoParams:
+    Enabled: true
+    Title: Hello Stranger 👋
+    Content: Welcome to my personal blog. Here, I will write about some dumb (and not-so-dumb) things that I'm interested in or working on.
+
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/albertyablonskyi/"
+    - name: "Mastodon"
+      url: "https://mastodon.social/@albertyablonskyi/"
+    - name: "Telegram"
+      url: "https://t.me/albertyablonskyi/"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/albert-yablonskyi-94625b225/"
